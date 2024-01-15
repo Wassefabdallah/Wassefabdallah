@@ -1,12 +1,40 @@
-<h1 align="center">Hi 👋, I'm Mohamed Wassef ABDALLAH</h1>
-<h3 align="center">A passionate Software Developer</h3>
+## Hi there, I'm Wassef Abdallah! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/wassef-abdallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wassef-abdallah" height="30" width="40" /></a>
-</p>
+I am a passionate web developer specializing in front-end technologies, dedicated to continual skill advancement to create exceptional user interfaces. With a proactive problem-solving approach, I thrive as an effective team collaborator, always staying updated on the latest trends to deliver cutting-edge solutions in the dynamic web development landscape.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### 🚀 Professional Experience
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wassefabdallah&show_icons=true&locale=en&layout=compact" alt="wassefabdallah" /></p>
+#### Antigone Consulting | October 2023 - November 2023
+- Developed a single-page application using React and Next.js with efficient implementation of Tailwind CSS.
+- Focused on UI/UX principles for an optimal user experience. Check out the application: [Antigoneagency.com](https://antigoneagency.com)
+
+#### Freelance | June 2023 - September 2023
+- Led the implementation of Mautic API for lead generation, configuring live servers and managing contact lists, email content, and languages.
+- Automated processes using Mautic API and HTTP requests, integrated Selenium for scraping, and generated detailed reports. [Project Documentation](https://github.com/WassefAbdallah/MauticAutomationProject)
+
+#### Antigone Consulting | February 2023 - May 2023
+- Developed a cross-platform mobile application for Cosmocel using React Native, Expo, and Firebase for secure user and content management.
+- Implemented Context API for efficient state management and focused on achieving UI/UX goals. [UI/UX Screenshots](https://drive.google.com/CosmocelAppScreenshots)
+
+#### BGH: Ben Gaid Hassin Tunis | June 2022 - August 2022
+- Created an e-commerce website using Next.js, React, and Sanity CMS, optimizing client-side performance.
+- Integrated an intuitive admin dashboard and ensured secure online transactions using the Stripe API. [Visit Take-Tech](#)
+
+### 🎓 Education
+
+- Bachelor's in Applied Computer Science, Admitted with honors, École Supérieure des Sciences Économiques et Commerciales, Tunis (September 2020 - May 2023)
+- High School Diploma in Experimental Sciences, Admitted with honors, Lycée l'aouina, Tunis (September 2019 - May 2020)
+
+### 🏆 Certificates
+
+- ReactJS Certificate, GTEC: Group of Training Engineering & Consulting Tunis (February 2022 - March 2022)
+- Python Certificate, GTEC: Group of Training Engineering & Consulting Tunis (November 2021 - January 2022)
+
+### 🌐 Languages
+
+- French (C1 Level, TCF: 516/699) [View Certificate](https://drive.com/AttestationTCF.com)
+- English (C1 Level, SAT: 1140/1600) [View Certificate](https://drive.com/AttestationSAT.com)
+
+### 📌 About Me
+
+Passionate web developer specializing in front-end technologies, committed to constant skill evolution for creating exceptional interfaces. Effective team collaborator with a proactive problem-solving approach, always staying abreast of the latest trends to deliver cutting-edge solutions in the dynamic web development landscape.
