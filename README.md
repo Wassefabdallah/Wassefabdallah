@@ -1,40 +1,15 @@
-## Hi there, I'm Wassef Abdallah! 👋
+# 💫 About Me:
+👋 Hey there! I'm Wassef Abdallah, a passionate web developer from Tunis with a focus on front-end technologies. I'm 22 years old, and I thrive on constant skill evolution to craft exceptional interfaces.<br><br>### 💼 Professional Projects<br><br>**Antigone Consulting: Single-Page App**<br>- Developed a React and Next.js single-page application with a sleek UI/UX using Tailwind CSS.<br>- Check it out: [Antigoneagency.com](https://antigoneagency.com)<br><br>**Lead Generation Freelance Project**<br>- Led the implementation of the Mautic API, configuring live servers and automating contact lists, email content, and more.<br>- Utilized Mautic API, HTTP requests, and Selenium for efficient server management and detailed statistical reports.<br>- [Project Documentation](https://github.com/WassefAbdallah/MauticAutomationProject)<br><br>**Cosmocel: Cross-Platform Mobile App**<br>- Developed a mobile app using React Native, Expo, and integrated Firebase and Sanity CMS for secure user and content management.<br>- Focused on UI/UX, achieving optimal usability and aesthetics. [UI/UX Screenshots](https://drive.google.com/CosmocelAppScreenshots)<br><br>**Take-Tech: E-commerce Web App**<br>- Created an e-commerce website with Next.js, React, and integrated Sanity CMS for dynamic content management.<br>- Implemented an intuitive admin dashboard and secure online transactions with the Stripe API.<br>- [Visit TakeTech](#)<br><br>### 🚀 Developer's Profile<br><br>- Passionate about front-end development, dedicated to proactive problem-solving in team collaborations.<br>- Always updated on the latest trends to provide cutting-edge solutions in the dynamic web development landscape.<br><br>### 🎓 Education<br><br>- Bachelor's in Applied Computer Science, École Supérieure des Sciences Économiques et Commerciales, Tunis (September 2020 - May 2023)<br><br>### 🏆 Certificates<br><br>- ReactJS Certificate, GTEC: Group of Training Engineering & Consulting Tunis (February 2022 - March 2022)<br>- Python Certificate, GTEC: Group of Training Engineering & Consulting Tunis (November 2021 - January 2022)<br><br>### 🌐 Languages<br><br>- French (C1 Level, TCF: 516/699) [View Certificate](https://drive.com/AttestationTCF.com)<br>- English (C1 Level, SAT: 1140/1600) [View Certificate](https://drive.com/AttestationSAT.com)<br><br>Feel free to connect with me on [LinkedIn](#) for exciting discussions and collaborations! 🚀<br>
 
-I am a passionate web developer specializing in front-end technologies, dedicated to continual skill advancement to create exceptional user interfaces. With a proactive problem-solving approach, I thrive as an effective team collaborator, always staying updated on the latest trends to deliver cutting-edge solutions in the dynamic web development landscape.
 
-### 🚀 Professional Experience
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-#### Antigone Consulting | October 2023 - November 2023
-- Developed a single-page application using React and Next.js with efficient implementation of Tailwind CSS.
-- Focused on UI/UX principles for an optimal user experience. Check out the application: [Antigoneagency.com](https://antigoneagency.com)
 
-#### Freelance | June 2023 - September 2023
-- Led the implementation of Mautic API for lead generation, configuring live servers and managing contact lists, email content, and languages.
-- Automated processes using Mautic API and HTTP requests, integrated Selenium for scraping, and generated detailed reports. [Project Documentation](https://github.com/WassefAbdallah/MauticAutomationProject)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-#### Antigone Consulting | February 2023 - May 2023
-- Developed a cross-platform mobile application for Cosmocel using React Native, Expo, and Firebase for secure user and content management.
-- Implemented Context API for efficient state management and focused on achieving UI/UX goals. [UI/UX Screenshots](https://drive.google.com/CosmocelAppScreenshots)
+---
+[![](https://visitcount.itsvg.in/api?id=Wassefabdallah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#### BGH: Ben Gaid Hassin Tunis | June 2022 - August 2022
-- Created an e-commerce website using Next.js, React, and Sanity CMS, optimizing client-side performance.
-- Integrated an intuitive admin dashboard and ensured secure online transactions using the Stripe API. [Visit Take-Tech](#)
-
-### 🎓 Education
-
-- Bachelor's in Applied Computer Science, Admitted with honors, École Supérieure des Sciences Économiques et Commerciales, Tunis (September 2020 - May 2023)
-- High School Diploma in Experimental Sciences, Admitted with honors, Lycée l'aouina, Tunis (September 2019 - May 2020)
-
-### 🏆 Certificates
-
-- ReactJS Certificate, GTEC: Group of Training Engineering & Consulting Tunis (February 2022 - March 2022)
-- Python Certificate, GTEC: Group of Training Engineering & Consulting Tunis (November 2021 - January 2022)
-
-### 🌐 Languages
-
-- French (C1 Level, TCF: 516/699) [View Certificate](https://drive.com/AttestationTCF.com)
-- English (C1 Level, SAT: 1140/1600) [View Certificate](https://drive.com/AttestationSAT.com)
-
-### 📌 About Me
-
-Passionate web developer specializing in front-end technologies, committed to constant skill evolution for creating exceptional interfaces. Effective team collaborator with a proactive problem-solving approach, always staying abreast of the latest trends to deliver cutting-edge solutions in the dynamic web development landscape.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
