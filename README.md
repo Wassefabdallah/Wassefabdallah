@@ -15,12 +15,12 @@
 
 **Cosmocel: Cross-Platform Mobile App**
 - Developed a mobile app using React Native, Expo, and integrated Firebase and Sanity CMS for secure user and content management.
-- Focused on UI/UX, achieving optimal usability and aesthetics. [UI/UX Screenshots](https://drive.google.com/CosmocelAppScreenshots)
+- Focused on UI/UX, achieving optimal usability and aesthetics. [UI/UX Screenshots](https://drive.google.com/drive/folders/18RFko7EQq67e5KC3Owwe8ohYDk_k63B2?usp=sharing)
 
 **Take-Tech: E-commerce Web App**
 - Created an e-commerce website with Next.js, React, and integrated Sanity CMS for dynamic content management.
 - Implemented an intuitive admin dashboard and secure online transactions with the Stripe API.
-- [Visit TakeTech](#)
+- [Visit TakeTech](https://e-commerce-sanity-lake.vercel.app/)
 
 ### 🚀 Developer's Profile
 
@@ -38,8 +38,8 @@
 
 ### 🌐 Languages
 
-- French (C1 Level, TCF: 516/699) [View Certificate](https://drive.com/AttestationTCF.com)
-- English (C1 Level, SAT: 1140/1600) [View Certificate](https://drive.com/AttestationSAT.com)
+- French (C1 Level, TCF: 516/699)
+- English (SAT: 1140/1600) 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/wassef-abdallah/) for exciting discussions and collaborations! 🚀
 
