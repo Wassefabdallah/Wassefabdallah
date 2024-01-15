@@ -29,7 +29,7 @@
 
 ### 🎓 Education
 
-- Bachelor's in Applied Computer Science, École Supérieure des Sciences Économiques et Commerciales, Tunis (September 2020 - May 2023)
+- Bachelor's in Computer Science, École Supérieure des Sciences Économiques et Commerciales, Tunis (September 2020 - May 2023)
 
 ### 🏆 Certificates
 
